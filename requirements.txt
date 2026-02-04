@@ -1,0 +1,5 @@
+flask>=3.0.0
+# mcp>=1.0.0  # Optional: MCP client SDK (requires Python >= 3.10)
+
+# Dev / tests
+pytest>=7.0.0
