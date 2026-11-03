@@ -1,3 +1,7 @@
+[![Tests](https://github.com/spalakollu/mcp-server-template-python/actions/workflows/tests.yml/badge.svg)](https://github.com/spalakollu/mcp-server-template-python/actions/workflows/tests.yml)
+
+License: MIT
+
 # MCP Server Template - Python
 
 ## Overview
